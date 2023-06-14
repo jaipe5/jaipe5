@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-< img src="https://media.giphy.com/media/t7t6PvAXCF731lQrTq/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/t7t6PvAXCF731lQrTq/giphy.gif" width="200" />
   <h1 align="center">Hola soy Jaime Pérez, Bienvenidos a tod@s</h1>
 </div>
 
